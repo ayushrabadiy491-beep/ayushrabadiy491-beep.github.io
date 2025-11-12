@@ -1,6 +1,3 @@
-# ayushrabadiy491-beep.github.io
-
-
 ### Computer Science Student @ UW Tacoma
 
 > *"Learning to build solutions through code"*
