@@ -18,8 +18,9 @@ The site includes:
 - Resume View + Download
 
 ## 🧑‍💻 Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Flexbox Layout**
-- **HTML5 UP – Massively Template**
+- HTML5
+- CSS
+- JavaScript
+- Flexbox Layout
+- HTML5 UP – Massively Template
+
